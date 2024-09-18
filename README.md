@@ -1,4 +1,4 @@
-<a href="" target="_blank"><img src="" /></a>
+<a href="https://cdn.discordapp.com/attachments/1186701237421359195/1285970933521186826/Untitled_design.png?ex=66ec3542&is=66eae3c2&hm=03aaab433c16002a2514c7d0fbb04bb85f953dc83c1e9b4e114cb801b61b6109&" target="_blank"><img src="https://cdn.discordapp.com/attachments/1186701237421359195/1285970933521186826/Untitled_design.png?ex=66ec3542&is=66eae3c2&hm=03aaab433c16002a2514c7d0fbb04bb85f953dc83c1e9b4e114cb801b61b6109&" /></a>
 
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=ay4an9.ay4an9&color=00cf00)
 <!--
