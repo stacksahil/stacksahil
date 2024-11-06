@@ -1,4 +1,4 @@
-<a href="["](https://www.freepik.com/premium-photo/computer-programming-often-shortened-programming-is-process-original-formulation-computing-problem-executable-computer-programs-such-as-analysis-developing-algorithms-verificatio_18732058.htm#fromView=keyword&page=1&position=35&uuid=8dc6cac0-2e79-4b59-82c2-18c02a69c409) target="_blank"><img src="https://cdn.discordapp.com/attachments/1186701237421359195/1285970933521186826/Untitled_design.png?ex=66ec3542&is=66eae3c2&hm=03aaab433c16002a2514c7d0fbb04bb85f953dc83c1e9b4e114cb801b61b6109&" /></a>
+<a href="[ ](https://cdn.discordapp.com/attachments/1303448578068578458/1303630215624396800/codde.png?ex=672c73bf&is=672b223f&hm=b8e480fe7ccc62351b2dbc43bad660238de5c7d6fcc3703a93729dc1b1273323&)"_blank"><img src="https://cdn.discordapp.com/attachments/1186701237421359195/1285970933521186826/Untitled_design.png?ex=66ec3542&is=66eae3c2&hm=03aaab433c16002a2514c7d0fbb04bb85f953dc83c1e9b4e114cb801b61b6109&" /></a>
 
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=ay4an9.ay4an9&color=00cf00)
 <!--
