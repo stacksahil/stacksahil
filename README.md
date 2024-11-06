@@ -1,5 +1,5 @@
 <a href="https://cdn.discordapp.com/attachments/1303448578068578458/1303630215624396800/codde.png?ex=672c73bf&is=672b223f&hm=b8e480fe7ccc62351b2dbc43bad660238de5c7d6fcc3703a93729dc1b1273323&">
-  <img src="https://cdn.discordapp.com/attachments/1186701237421359195/1285970933521186826/Untitled_design.png" alt="Profile Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/ay4an9/ay4an9/main/banner.png" alt="Profile Banner" width="100%" />
 </a>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fay4an9&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
