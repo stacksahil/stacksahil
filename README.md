@@ -1,88 +1,68 @@
-<a href="https://cdn.discordapp.com/attachments/1303448578068578458/1303630215624396800/codde.png?ex=672c73bf&is=672b223f&hm=b8e480fe7ccc62351b2dbc43bad660238de5c7d6fcc3703a93729dc1b1273323&">
-  <img src="https://raw.githubusercontent.com/ay4an9/ay4an9/main/banner.png" alt="Profile Banner" width="100%" />
-</a>
+# 𝙷𝚒 𝚝𝚑𝚎𝚛𝚎, 𝙸'𝚖 𝚂𝚊𝚑𝚒𝚕 𝙶𝚘𝚜𝚠𝚊𝚖𝚒 👋
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fay4an9&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
+𝚆𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝚖𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎! 𝙸'𝚖 𝚊 𝚙𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 **𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛** 𝚊𝚗𝚍 𝚊𝚗 𝚊𝚜𝚙𝚒𝚛𝚒𝚗𝚐 **𝙴𝚗𝚝𝚛𝚎𝚙𝚛𝚎𝚗𝚎𝚞𝚛** 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚙𝚞𝚛𝚜𝚞𝚒𝚗𝚐 𝚖𝚢 𝚍𝚎𝚐𝚛𝚎𝚎 𝚒𝚗 𝙱.𝙴. (𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚊𝚗𝚍 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐) 𝚠𝚒𝚝𝚑 𝚊 𝚜𝚙𝚎𝚌𝚒𝚊𝚕𝚒𝚣𝚊𝚝𝚒𝚘𝚗 𝚒𝚗 𝙳𝚊𝚝𝚊 𝚂𝚌𝚒𝚎𝚗𝚌𝚎.
 
-<!--
-**ay4an9/ay4an9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+---
 
-Here are some ideas to get you started:
+### 🚀 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!--
-<table>
-	<tr>
-	</tr>
-	<tr>
-		<th>
-			<h2><code>𝚂𝚙𝚎𝚌𝚒𝚊𝚕</code>: 𝙸'𝚖 𝚙𝚊𝚛𝚝𝚒𝚌𝚒𝚙𝚊𝚝𝚒𝚗𝚐 𝚒𝚗 𝙷𝚊𝚌𝚔𝚝𝚘𝚋𝚎𝚛𝚏𝚎𝚜𝚝!</h2>
-			𝙰𝚗𝚢𝚘𝚗𝚎 𝚠𝚑𝚘 𝚠𝚊𝚗𝚝𝚜 𝚝𝚘 𝚒𝚜 𝚠𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝚙𝚊𝚛𝚝𝚒𝚌𝚒𝚙𝚊𝚝𝚎! 𝙹𝚞𝚜𝚝 𝚜𝚒𝚐𝚗 𝚞𝚙 𝚊𝚝 <a href="https://hacktoberfest.digitalocean.com/">𝚑𝚝𝚝𝚙𝚜://𝚑𝚊𝚌𝚔𝚝𝚘𝚋𝚎𝚛𝚏𝚎𝚜𝚝.𝚍𝚒𝚐𝚒𝚝𝚊𝚕𝚘𝚌𝚎𝚊𝚗.𝚌𝚘𝚖/</a>.
-				<br>𝙱𝚊𝚜𝚒𝚌𝚊𝚕𝚕𝚢, 𝚖𝚊𝚔𝚎 𝟺 𝙿𝚁𝚜 𝚝𝚘 𝙶𝚒𝚝𝙷𝚞𝚋 𝚛𝚎𝚙𝚘𝚜 𝚊𝚗𝚍 𝚐𝚎𝚝 𝚝𝚑𝚎𝚖 𝚖𝚎𝚛𝚐𝚎𝚍 𝚘𝚛 𝚝𝚊𝚐𝚐𝚎𝚍 <code>hacktoberfest-accepted</code> 𝚠𝚒𝚕𝚕 𝚐𝚎𝚝 𝚌𝚘𝚘𝚕&nbsp𝚜𝚠𝚊𝚐!
-		</th>
-	</tr>
-	<tr>
-		<td>
-				<b>𝙻𝚒𝚜𝚝 𝚘𝚏 𝚖𝚢 𝚛𝚎𝚙𝚘𝚜 𝚙𝚊𝚛𝚝𝚒𝚌𝚒𝚙𝚊𝚝𝚒𝚗𝚐 𝚒𝚗 𝚝𝚑𝚒𝚜 𝚊𝚠𝚎𝚜𝚘𝚖𝚎 𝚎𝚟𝚎𝚗𝚝:<b>
-				<ul>
-					<li><a href="https://github.com/Raymo111/emoji">𝚁𝚊𝚢𝚖𝚘𝟷𝟷𝟷/𝚎𝚖𝚘𝚓𝚒</a></li>
-					<li><a href="https://github.com/Raymo111/drracket-customization">𝚁𝚊𝚢𝚖𝚘𝟷𝟷𝟷/𝚍𝚛𝚛𝚊𝚌𝚔𝚎𝚝-𝚌𝚞𝚜𝚝𝚘𝚖𝚒𝚣𝚊𝚝𝚒𝚘𝚗</a></li>
-					<li><a href="https://github.com/Raymo111/i3lock-color">𝚁𝚊𝚢𝚖𝚘𝟷𝟷𝟷/𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛</a></li>
-				</ul>
-		</td>
-	</tr>
-</table>
--->
-## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🖥  𝙰 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚎𝚗𝚐𝚒𝚗𝚎𝚎𝚛 𝚒𝚖𝚋𝚞𝚎𝚍 𝚠𝚒𝚝𝚑 𝚊𝚞𝚍𝚊𝚌𝚒𝚘𝚞𝚜 𝚊𝚗𝚍 𝚊𝚟𝚊𝚗𝚝-𝚐𝚊𝚛𝚍𝚎 𝚌𝚘𝚗𝚌𝚎𝚙𝚝𝚞𝚊𝚕𝚒𝚣𝚊𝚝𝚒𝚘𝚗𝚜
-- 🎓 𝙸 𝚊𝚖 𝚙𝚛𝚎𝚜𝚎𝚗𝚝𝚕𝚢 𝚊𝚗 𝚊𝚌𝚊𝚍𝚎𝚖𝚒𝚌 𝚜𝚌𝚑𝚘𝚕𝚊𝚛 𝚎𝚗𝚍𝚎𝚊𝚟𝚘𝚛𝚒𝚗𝚐 𝚝𝚘 𝚊𝚌𝚚𝚞𝚒𝚛𝚎 𝚊 𝚍𝚎𝚐𝚛𝚎𝚎 𝚒𝚗 𝚌𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚜𝚌𝚒𝚎𝚗𝚌𝚎, 𝚠𝚒𝚝𝚑 𝚊 𝚜𝚙𝚎𝚌𝚒𝚊𝚕𝚒𝚣𝚊𝚝𝚒𝚘𝚗 𝚒𝚗 𝚝𝚑𝚎 𝚍𝚘𝚖𝚊𝚒𝚗 𝚘𝚏 𝚍𝚊𝚝𝚊 𝚜𝚌𝚒𝚎𝚗𝚌𝚎.
-- 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 𝙶𝚒𝚝𝙷𝚞𝚋
-- 𝚋𝚝𝚠 𝙸 𝚞𝚜𝚎 𝙰𝚛𝚌𝚑 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://archlinux.org/)
+- 🌱 **𝙱𝚞𝚒𝚕𝚍𝚒𝚗𝚐**: [𝙲𝚘𝚗𝚏𝚒𝚍𝚎𝚗𝚝𝚒𝚊𝚕 𝚂𝚝𝚊𝚛𝚝𝚞𝚙] – 𝙵𝚘𝚌𝚞𝚜𝚎𝚍 𝚘𝚗 𝚌𝚛𝚎𝚊𝚝𝚒𝚗𝚐 𝚌𝚞𝚝𝚝𝚒𝚗𝚐-𝚎𝚍𝚐𝚎 𝚜𝚘𝚕𝚞𝚝𝚒𝚘𝚗𝚜 𝚒𝚗 **[𝚒𝚗𝚍𝚞𝚜𝚝𝚛𝚢]**. 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚒𝚗𝚐 **[𝚙𝚛𝚘𝚍𝚞𝚌𝚝]** 𝚝𝚘 𝚜𝚘𝚕𝚟𝚎 **[𝚙𝚛𝚘𝚋𝚕𝚎𝚖]** 𝚊𝚗𝚍 𝚑𝚎𝚕𝚙 **[𝚝𝚊𝚛𝚐𝚎𝚝 𝚊𝚞𝚍𝚒𝚎𝚗𝚌𝚎]**.
+- 🎓 **𝙴𝚍𝚞𝚌𝚊𝚝𝚒𝚘𝚗**: 𝙲𝚑𝚊𝚗𝚍𝚒𝚐𝚊𝚛𝚑 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢, 𝙱.𝙴. (𝙲.𝚂.𝙴) - 𝙳𝚊𝚝𝚊 𝚂𝚌𝚒𝚎𝚗𝚌𝚎.
+- 🔭 **𝙸𝚗𝚝𝚎𝚛𝚎𝚜𝚝𝚜**: 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝, 𝙰𝚛𝚝𝚒𝚏𝚒𝚌𝚒𝚊𝚕 𝙸𝚗𝚝𝚎𝚕𝚕𝚒𝚐𝚎𝚗𝚌𝚎, 𝚊𝚗𝚍 𝙲𝚢𝚋𝚎𝚛𝚜𝚎𝚌𝚞𝚛𝚒𝚝𝚢.
+- 💡 **𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝙴𝚡𝚙𝚕𝚘𝚛𝚒𝚗𝚐**: 𝙰𝚍𝚟𝚊𝚗𝚌𝚎𝚍 𝚌𝚢𝚋𝚎𝚛𝚜𝚎𝚌𝚞𝚛𝚒𝚝𝚢 𝚝𝚘𝚘𝚕𝚜 𝚕𝚒𝚔𝚎 **𝙺𝚊𝚕𝚒 𝙻𝚒𝚗𝚞𝚡** 𝚊𝚗𝚍 𝚌𝚛𝚎𝚊𝚝𝚒𝚗𝚐 𝚍𝚊𝚝𝚊-𝚍𝚛𝚒𝚟𝚎𝚗 𝚜𝚘𝚕𝚞𝚝𝚒𝚘𝚗𝚜 𝚏𝚘𝚛 𝚛𝚎𝚊𝚕-𝚠𝚘𝚛𝚕𝚍 𝚙𝚛𝚘𝚋𝚕𝚎𝚖𝚜.
+- 🏅 **𝙷𝚊𝚌𝚔𝚊𝚝𝚘𝚗𝚜**: 𝙰𝚌𝚝𝚒𝚟𝚎𝚕𝚢 𝚙𝚊𝚛𝚝𝚒𝚌𝚒𝚙𝚊𝚝𝚒𝚗𝚐 𝚒𝚗 𝚑𝚊𝚌𝚔𝚊𝚝𝚑𝚘𝚗𝚜, 𝚠𝚒𝚝𝚑 𝚛𝚎𝚜𝚞𝚕𝚝𝚜 𝚘𝚏 𝚖𝚢 𝚏𝚒𝚛𝚜𝚝 𝚘𝚗𝚎 𝚙𝚎𝚗𝚍𝚒𝚗𝚐. 𝙴𝚡𝚌𝚒𝚝𝚎𝚍 𝚏𝚘𝚛 𝚞𝚙𝚌𝚘𝚖𝚒𝚗𝚐 𝚌𝚑𝚊𝚕𝚕𝚎𝚗𝚐𝚎𝚜!
+- 📜 **𝙲𝚎𝚛𝚝𝚒𝚏𝚒𝚌𝚊𝚝𝚒𝚘𝚗𝚜**: 𝙲𝚘𝚞𝚛𝚜𝚎𝚛𝚊 𝙲𝚎𝚛𝚝𝚒𝚏𝚒𝚌𝚊𝚝𝚎 𝚒𝚗 **𝙿𝚢𝚝𝚑𝚘𝚗**.
+- 📚 **𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐**: 𝙳𝚊𝚝𝚊 𝚂𝚝𝚛𝚞𝚌𝚝𝚞𝚛𝚎𝚜 𝚊𝚗𝚍 𝙰𝚕𝚐𝚘𝚛𝚒𝚝𝚑𝚖𝚜 (**𝙳𝚂𝙰**) 𝚠𝚒𝚝𝚑 **𝙲++** 𝚊𝚗𝚍 𝚜𝚘𝚕𝚟𝚒𝚗𝚐 𝚙𝚛𝚘𝚋𝚕𝚎𝚖𝚜 𝚘𝚗 **𝙻𝚎𝚎𝚝𝙲𝚘𝚍𝚎**
 
-## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
-- 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
-```yaml
-- Currently, I am not engaged in development activities and am dedicating my efforts solely to my academic studies!
-```
-<!-- - 🔨 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 𝚊 𝚗𝚎𝚠 [**𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛**](https://github.com/Raymo111/i3lock-color) 𝚛𝚎𝚕𝚎𝚊𝚜𝚎 -->
-- 🎯 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎, 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘...
-- 🤞 𝙾𝚗𝚎 𝚍𝚊𝚢 𝙸 𝚑𝚘𝚙𝚎 𝚝𝚘...
-	- 𝚎𝚖𝚋𝚊𝚛𝚔 𝚘𝚗 𝚊𝚗 𝚎𝚡𝚝𝚎𝚗𝚜𝚒𝚟𝚎 𝚐𝚕𝚘𝚋𝚊𝚕 𝚜𝚘𝚓𝚘𝚞𝚛𝚗, 𝚊 𝚓𝚘𝚞𝚛𝚗𝚎𝚢 𝚝𝚑𝚊𝚝 𝚠𝚒𝚕𝚕 𝚜𝚙𝚊𝚗 𝚍𝚒𝚟𝚎𝚛𝚜𝚎 𝚌𝚞𝚕𝚝𝚞𝚛𝚎𝚜 𝚊𝚗𝚍 𝚌𝚘𝚗𝚝𝚒𝚗𝚎𝚗𝚝𝚜!
-	- 𝚒𝚖𝚖𝚎𝚛𝚜𝚎 𝚖𝚢𝚜𝚎𝚕𝚏 𝚒𝚗 𝚌𝚘𝚖𝚖𝚞𝚗𝚒𝚝𝚢 𝚎𝚟𝚎𝚗𝚝𝚜 𝚊𝚗𝚍 𝚑𝚊𝚌𝚔𝚊𝚝𝚑𝚘𝚗𝚜 𝚝𝚘 𝚐𝚊𝚒𝚗 𝚙𝚛𝚊𝚌𝚝𝚒𝚌𝚊𝚕 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎 𝚊𝚗𝚍 𝚋𝚞𝚒𝚕𝚍 𝚌𝚘𝚗𝚗𝚎𝚌𝚝𝚒𝚘𝚗𝚜 𝚠𝚒𝚝𝚑 𝚘𝚝𝚑𝚎𝚛 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜
-	- 𝚌𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚒𝚗𝚍𝚞𝚜𝚝𝚛𝚢 𝚙𝚛𝚘𝚏𝚎𝚜𝚜𝚒𝚘𝚗𝚊𝚕𝚜 𝚊𝚗𝚍 𝚊𝚌𝚊𝚍𝚎𝚖𝚒𝚌𝚜 𝚝𝚘 𝚐𝚊𝚒𝚗 𝚒𝚗𝚜𝚒𝚐𝚑𝚝𝚜 𝚊𝚗𝚍 𝚜𝚝𝚊𝚢 𝚞𝚙𝚍𝚊𝚝𝚎𝚍 𝚠𝚒𝚝𝚑 𝚝𝚑𝚎 𝚕𝚊𝚝𝚎𝚜𝚝 𝚊𝚍𝚟𝚊𝚗𝚌𝚎𝚖𝚎𝚗𝚝𝚜
+---
 
-## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝚑𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
-<!--START_SECTION:activity-->
-1. 💪 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚎𝚗𝚐𝚊𝚐𝚎𝚍 𝚒𝚗 𝚖𝚢 𝚏𝚒𝚛𝚜𝚝 𝚙𝚛𝚘𝚓𝚎𝚌𝚝
-2. 🎉 𝙰𝚌𝚚𝚞𝚒𝚛𝚒𝚗𝚐 𝚔𝚗𝚘𝚠𝚕𝚎𝚍𝚐𝚎 𝚒𝚗 𝙳𝚊𝚝𝚊 𝚂𝚝𝚛𝚞𝚌𝚝𝚞𝚛𝚎𝚜 𝚊𝚗𝚍 𝙰𝚕𝚐𝚘𝚛𝚒𝚝𝚑𝚖𝚜
-3. 🛠️ 𝚂𝚎𝚝𝚝𝚒𝚗𝚐 𝚞𝚙 𝚖𝚢 𝚏𝚒𝚛𝚜𝚝 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚢 𝚊𝚗𝚍 𝚎𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝𝚒𝚗𝚐 𝚠𝚒𝚝𝚑 𝙶𝚒𝚝 𝚌𝚘𝚖𝚖𝚊𝚗𝚍𝚜 𝚝𝚘 𝚞𝚗𝚍𝚎𝚛𝚜𝚝𝚊𝚗𝚍 𝚟𝚎𝚛𝚜𝚒𝚘𝚗 𝚌𝚘𝚗𝚝𝚛𝚘𝚕
-4. 🎯 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚒𝚗𝚐 𝚒𝚗𝚝𝚛𝚘𝚍𝚞𝚌𝚝𝚘𝚛𝚢 𝚌𝚘𝚍𝚒𝚗𝚐 𝚌𝚑𝚊𝚕𝚕𝚎𝚗𝚐𝚎𝚜 𝚊𝚗𝚍 𝚜𝚑𝚊𝚛𝚒𝚗𝚐 𝚜𝚘𝚕𝚞𝚝𝚒𝚘𝚗𝚜 𝚝𝚘 𝚋𝚞𝚒𝚕𝚍 𝚌𝚘𝚗𝚏𝚒𝚍𝚎𝚗𝚌𝚎 𝚊𝚗𝚍 𝚐𝚊𝚒𝚗 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎
-5. 📊 𝚃𝚛𝚊𝚌𝚔𝚒𝚗𝚐 𝚒𝚜𝚜𝚞𝚎𝚜 𝚊𝚗𝚍 𝚖𝚒𝚕𝚎𝚜𝚝𝚘𝚗𝚎𝚜 𝚝𝚘 𝚖𝚊𝚗𝚊𝚐𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝 𝚙𝚛𝚘𝚐𝚛𝚎𝚜𝚜 𝚊𝚗𝚍 𝚞𝚗𝚍𝚎𝚛𝚜𝚝𝚊𝚗𝚍 𝚙𝚛𝚘𝚓𝚎𝚌𝚝 𝚖𝚊𝚗𝚊𝚐𝚎𝚖𝚎𝚗𝚝 𝚙𝚛𝚊𝚌𝚝𝚒𝚌𝚎𝚜
-<!--END_SECTION:activity-->
+### 🛠️ 𝚂𝚔𝚒𝚕𝚕𝚜 𝚊𝚗𝚍 𝚃𝚘𝚘𝚕𝚜
 
-## 🔨 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚃𝚘𝚘𝚕𝚜
-<!--START_SECTION:languages-->
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
-<br>
-<!--END_SECTION:languages-->
+#### 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚒𝚗𝚐 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) : **𝙿𝚢𝚝𝚑𝚘𝚗** (𝙰𝚍𝚟𝚊𝚗𝚌𝚎𝚍)
+- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) :     **𝙲++** (𝙸𝚗𝚝𝚎𝚛𝚖𝚎𝚍𝚒𝚊𝚝𝚎)
+- ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) :       **𝙹𝚊𝚟𝚊** (𝙱𝚎𝚐𝚒𝚗𝚗𝚎𝚛)
+- ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white) :               **𝙲** (𝙸𝚗𝚝𝚎𝚛𝚖𝚎𝚍𝚒𝚊𝚝𝚎)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) : **𝙹𝚊𝚟𝚊𝚂𝚌𝚛𝚒𝚙𝚝** (𝙸𝚗𝚝𝚎𝚛𝚖𝚎𝚍𝚒𝚊𝚝𝚎)
+- ![CSS](https://img.shields.io/badge/-CSS-2965F1?style=flat&logo=css3&logoColor=white) :         **𝙲𝚂𝚂** (𝙸𝚗𝚝𝚎𝚛𝚖𝚎𝚍𝚒𝚊𝚝𝚎)
 
-## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
-𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
+#### 𝙵𝚛𝚊𝚖𝚎𝚠𝚘𝚛𝚔𝚜 & 𝙻𝚒𝚋𝚛𝚊𝚛𝚒𝚎𝚜:
+- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) : **𝚁𝚎𝚊𝚌𝚝** (𝙰𝚍𝚟𝚊𝚗𝚌𝚎𝚍)
+- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) : **𝙽𝚘𝚍𝚎.𝚓𝚜** (𝙸𝚗𝚝𝚎𝚛𝚖𝚎𝚍𝚒𝚊𝚝𝚎)
+- ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) : **𝙳𝚓𝚊𝚗𝚐𝚘** (𝙱𝚎𝚐𝚒𝚗𝚗𝚎𝚛)
 
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Raymo111 on LinkedIn" title="Follow ay4an9 on LinkedIn"/>](https://linkedin.com/in/ay4an9)
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Raym0111 on Twitter" title="Follow ay4an9 on Twitter"/>](https://twitter.com/ay4an9)
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Raymo111 on Instagram" title="Follow ay4an9 on Instagram"/>](https://instagram.com/ay4an9)
+#### 𝚃𝚘𝚘𝚕𝚜 & 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜:
+- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) : **𝙶𝚒𝚝** (𝙰𝚍𝚟𝚊𝚗𝚌𝚎𝚍)
+- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) : **𝙳𝚘𝚌𝚔𝚎𝚛** (𝙸𝚗𝚝𝚎𝚛𝚖𝚎𝚍𝚒𝚊𝚝𝚎)
+- ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) : **𝙺𝚞𝚋𝚎𝚛𝚗𝚎𝚝𝚎𝚜** (𝙱𝚎𝚐𝚒𝚗𝚗𝚎𝚛)
+- ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white) : **𝙺𝚊𝚕𝚒 𝙻𝚒𝚗𝚞𝚡** (𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐)
+
+---
+
+### 🌟 𝙵𝚎𝚊𝚝𝚞𝚛𝚎𝚍 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜
+
+#### [𝙵𝚛𝚎𝚎𝚕𝚊𝚗𝚌𝚎 𝙲𝚘𝚖𝚙𝚊𝚗𝚢 𝙸𝚗𝚒𝚝𝚒𝚊𝚝𝚒𝚟𝚎](https://github.com/stacksahil/freelance-project)
+𝙰 𝚙𝚕𝚊𝚝𝚏𝚘𝚛𝚖 𝚌𝚘𝚗𝚗𝚎𝚌𝚝𝚒𝚗𝚐 𝚏𝚛𝚎𝚎𝚕𝚊𝚗𝚌𝚎𝚛𝚜 𝚊𝚗𝚍 𝚌𝚕𝚒𝚎𝚗𝚝𝚜 𝚜𝚎𝚊𝚖𝚕𝚎𝚜𝚜𝚕𝚢 𝚞𝚜𝚒𝚗𝚐 **𝚁𝚎𝚊𝚌𝚝**, **𝙽𝚘𝚍𝚎.𝚓𝚜**, 𝚊𝚗𝚍 **𝙼𝚘𝚗𝚐𝚘𝙳𝙱**. 𝚃𝚑𝚎 𝚐𝚘𝚊𝚕 𝚒𝚜 𝚝𝚘 𝚌𝚛𝚎𝚊𝚝𝚎 𝚊 𝚜𝚙𝚊𝚌𝚎 𝚠𝚑𝚎𝚛𝚎 𝚋𝚘𝚝𝚑 𝚏𝚛𝚎𝚎𝚕𝚊𝚗𝚌𝚎𝚛𝚜 𝚊𝚗𝚍 𝚌𝚕𝚒𝚎𝚗𝚝𝚜 𝚌𝚊𝚗 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚎𝚏𝚏𝚒𝚌𝚒𝚎𝚗𝚝𝚕𝚢.
+
+#### [𝙼𝚘𝚛𝚎 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜...](https://github.com/stacksahil?tab=repositories)
+𝙴𝚡𝚙𝚕𝚘𝚛𝚎 𝚖𝚘𝚛𝚎 𝚘𝚏 𝚖𝚢 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜 𝚠𝚑𝚎𝚛𝚎 𝙸 𝚜𝚑𝚊𝚛𝚎 𝚖𝚢 𝚙𝚎𝚛𝚜𝚘𝚗𝚊𝚕 𝚊𝚗𝚍 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚒𝚟𝚎 𝚠𝚘𝚛𝚔.
+
+---
+
+### 🏆 𝙰𝚌𝚑𝚒𝚎𝚟𝚎𝚖𝚎𝚗𝚝𝚜
+- **𝙾𝚙𝚎𝚗 𝚂𝚘𝚞𝚛𝚌𝚎 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗𝚜**: 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚎𝚍 𝚝𝚘 **[𝚁𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚢 𝙽𝚊𝚖𝚎]** 𝚝𝚘 𝚒𝚖𝚙𝚛𝚘𝚟𝚎 **[𝚏𝚎𝚊𝚝𝚞𝚛𝚎]**.
+- **𝙷𝚊𝚌𝚔𝚊𝚝𝚑𝚘𝚗𝚜**: 𝙰𝚌𝚝𝚒𝚟𝚎𝚕𝚢 𝚙𝚊𝚛𝚝𝚒𝚌𝚒𝚙𝚊𝚝𝚒𝚗𝚐, 𝚠𝚒𝚝𝚑 𝚛𝚎𝚜𝚞𝚕𝚝𝚜 𝚙𝚎𝚗𝚍𝚒𝚗𝚐.
+- **𝙲𝚎𝚛𝚝𝚒𝚏𝚒𝚌𝚊𝚝𝚒𝚘𝚗𝚜**: 𝙲𝚘𝚞𝚛𝚜𝚎𝚛𝚊 𝙲𝚎𝚛𝚝𝚒𝚏𝚒𝚌𝚊𝚝𝚎 𝚒𝚗 **𝙿𝚢𝚝𝚑𝚘𝚗**.
+- **𝙻𝚎𝚎𝚝𝙲𝚘𝚍𝚎 𝙿𝚛𝚘𝚏𝚒𝚕𝚎**: [𝙲𝚑𝚎𝚌𝚔 𝚘𝚞𝚝 𝚖𝚢 𝙻𝚎𝚎𝚝𝙲𝚘𝚍𝚎 𝚙𝚛𝚘𝚐𝚛𝚎𝚜𝚜](https://leetcode.com/u/stacksahil/) 𝚠𝚑𝚎𝚛𝚎 𝙸 𝚜𝚘𝚕𝚟𝚎 𝚊𝚕𝚐𝚘𝚛𝚒𝚝𝚑𝚖 𝚙𝚛𝚘𝚋𝚕𝚎𝚖𝚜 𝚊𝚗𝚍 𝚒𝚖𝚙𝚛𝚘𝚟𝚎 𝚖𝚢 𝚙𝚛𝚘𝚋𝚕𝚎𝚖-𝚜𝚘𝚕𝚟𝚒𝚗𝚐 𝚜𝚔𝚒𝚕𝚕𝚜.
+
+---
+
+### 📫 𝙻𝚎𝚝'𝚜 𝙲𝚘𝚗𝚗𝚎𝚌𝚝
+𝙵𝚎𝚎𝚕 𝚏𝚛𝚎𝚎 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚘𝚞𝚝 𝚟𝚒𝚊 [𝙻𝚒𝚗𝚔𝚎𝚍𝙸𝚗](https://linkedin.com/in/stacksahil) 𝚘𝚛 𝚎𝚖𝚊𝚒𝚕 𝚖𝚎 𝚊𝚝 **[𝚌𝚘𝚍𝚎𝚌𝚜𝚊𝚑𝚒𝚕@𝚐𝚖𝚊𝚒𝚕.𝚌𝚘𝚖](mailto:codecsahil@gmail.com)**. 𝙸'𝚖 𝚊𝚕𝚠𝚊𝚢𝚜 𝚘𝚙𝚎𝚗 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚒𝚗𝚐 𝚘𝚗 𝚎𝚡𝚌𝚒𝚝𝚒𝚗𝚐 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚘𝚛 𝚍𝚒𝚜𝚌𝚞𝚜𝚜𝚒𝚗𝚐 𝚝𝚎𝚌𝚑-𝚛𝚎𝚕𝚊𝚝𝚎𝚍 𝚝𝚘𝚙𝚒𝚌𝚜.
+
+---
+
+### 📈 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=stacksahil&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stacksahil&layout=compact&theme=radical)
