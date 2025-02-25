@@ -1,6 +1,5 @@
-<a href="[https://www.greatfrontend.com/?fpr=yangshun](https://media.discordapp.net/attachments/1183270172325330955/1343896149060489337/pixelcut-export_1.png?ex=67bef052&is=67bd9ed2&hm=87f11fb87f7dfb48a1d7a654e8faca54894d46797d893948ca532f6fe0f18133&=&format=webp&quality=lossless&width=2565&height=641)">
-  <img src="[./img/js-interview-tall.png](https://media.discordapp.net/attachments/1183270172325330955/1343896149060489337/pixelcut-export_1.png?ex=67bef052&is=67bd9ed2&hm=87f11fb87f7dfb48a1d7a654e8faca54894d46797d893948ca532f6fe0f18133&=&format=webp&quality=lossless&width=2565&height=641)" alt="GreatFrontEnd">
-</a>
+<img src="https://media.discordapp.net/attachments/1183270172325330955/1343896149060489337/pixelcut-export_1.png?ex=67bef052&is=67bd9ed2&hm=87f11fb87f7dfb48a1d7a654e8faca54894d46797d893948ca532f6fe0f18133&=&format=webp&quality=lossless&width=2565&height=641" alt="GitHub Banner" width="100%" />
+
 
 # 𝙷𝚒 𝚝𝚑𝚎𝚛𝚎, 𝙸'𝚖 𝚂𝚊𝚑𝚒𝚕 𝙶𝚘𝚜𝚠𝚊𝚖𝚒 👋
 
