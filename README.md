@@ -1,3 +1,7 @@
+<a href="[https://www.greatfrontend.com/?fpr=yangshun](https://media.discordapp.net/attachments/1183270172325330955/1343896149060489337/pixelcut-export_1.png?ex=67bef052&is=67bd9ed2&hm=87f11fb87f7dfb48a1d7a654e8faca54894d46797d893948ca532f6fe0f18133&=&format=webp&quality=lossless&width=2565&height=641)">
+  <img src="[./img/js-interview-tall.png](https://media.discordapp.net/attachments/1183270172325330955/1343896149060489337/pixelcut-export_1.png?ex=67bef052&is=67bd9ed2&hm=87f11fb87f7dfb48a1d7a654e8faca54894d46797d893948ca532f6fe0f18133&=&format=webp&quality=lossless&width=2565&height=641)" alt="GreatFrontEnd">
+</a>
+
 # 𝙷𝚒 𝚝𝚑𝚎𝚛𝚎, 𝙸'𝚖 𝚂𝚊𝚑𝚒𝚕 𝙶𝚘𝚜𝚠𝚊𝚖𝚒 👋
 
 𝚆𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝚖𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎! 𝙸'𝚖 𝚊 𝚙𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 **𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛** 𝚊𝚗𝚍 𝚊𝚗 𝚊𝚜𝚙𝚒𝚛𝚒𝚗𝚐 **𝙴𝚗𝚝𝚛𝚎𝚙𝚛𝚎𝚗𝚎𝚞𝚛** 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚙𝚞𝚛𝚜𝚞𝚒𝚗𝚐 𝚖𝚢 𝚍𝚎𝚐𝚛𝚎𝚎 𝚒𝚗 𝙱.𝙴. (𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚊𝚗𝚍 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐) 𝚠𝚒𝚝𝚑 𝚊 𝚜𝚙𝚎𝚌𝚒𝚊𝚕𝚒𝚣𝚊𝚝𝚒𝚘𝚗 𝚒𝚗 𝙳𝚊𝚝𝚊 𝚂𝚌𝚒𝚎𝚗𝚌𝚎.
